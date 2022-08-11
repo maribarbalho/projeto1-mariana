@@ -1,2 +1,2 @@
 Olá, Mundo.
-Eu so uma nova linha.
+Eu sou uma nova linha.
