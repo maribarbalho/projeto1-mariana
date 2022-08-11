@@ -1,2 +1,2 @@
 Olá, Mundo.
-Eu sou uma nova linha.
+Eu sou uma nova linha, criada por: Mariana Barbalho.
